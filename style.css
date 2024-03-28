@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+body {
+    height: 100vh; /* Adjusted to 100vh for full viewport height */
+    background-image: url('assets/pexels-ovan-62693.jpg');
+    background-repeat: repeat;
+
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif; /* Updated font stack to use Montserrat */
+    font-size: 18px; /* Slightly reduced font size for better readability */
+    margin: 0; /* Reset margin to remove any default browser margin */
+    padding: 0; /* Reset padding */
+    color: #333; /* Set default text color to dark gray */
+}
